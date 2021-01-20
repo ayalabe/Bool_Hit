@@ -1,0 +1,11 @@
+Game Instructions – Breakdown:
+At the beginning of the game the player chooses four colors
+From the color table,
+And he must know that there are no colors that repeat themselves.
+
+The selected colors will appear to the player on the screen
+And at the end of the four selections the player,
+Will see the colors hidden where he had an injury and where was Bull.
+
+Each turn has to play 5 possibilities to guess by hints that give it the colors in their exact location.
+
